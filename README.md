@@ -45,4 +45,4 @@ And the following GraphQL mutations:
 
 ## Reference
 
-- [NOMAD CODERS: GraphQL로 영화 API 만들기](https://nomadcoders.co/graphql-for-beginners)
+- [Nomad Coders: GraphQL로 영화 API 만들기](https://nomadcoders.co/graphql-for-beginners)
